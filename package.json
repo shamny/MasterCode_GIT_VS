@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/shamny/MasterCode_GIT_VS#readme",
   "devDependencies": {
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "rimraf": "^3.0.2"
   }
 }
